@@ -1,0 +1,5 @@
+- 👋 Olá eu me chamo Lucas e meu apelido é 🍀 Lucky 🍀
+- 👀 Estou interessado em conseguir um emprego seja com Html,CSS ou Java Script como Iniciante
+- 🌱 Estou atualmente aprendendo Html,CSS e JavaScript
+- 💞️ Procuro trabalhar com web
+- 📫 Contato - lucascavalheiro2008@gmail.com
